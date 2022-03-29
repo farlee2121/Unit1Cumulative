@@ -18,5 +18,5 @@
    2. ATTENTION: We haven't covered ducking formally yet, but please include your thought process in a markdown document in the documents project. Not every detail needs recorded, but I'd like to see any deliberations you're considering. Anything that causes you to hesitate or contemplate alternatives probably belongs in the duck. You can see my blog post for tips on how to organize your contemplations
       1. https://spencerfarley.com/2021/05/21/duck-structure/
    3. NOTE: We have not yet covered testing, so I don't expect a test suite. Remember that is a very bad habit in real applications. I may need to reorganize the course to correct this.
-3. Open a pull request to the main branch with your changes 
+3. Do not open a pull request. I'm trying to figure out how to handle review process without making solutions available to future learners
 4. Email instructor that you've completed the exam
