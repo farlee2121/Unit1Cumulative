@@ -9,6 +9,24 @@
 - Code Complete Ch 5: Design in Construction
 - Refactoring Ch 1: A First Example 
 
+Key topics
+- Naming (variables, functions, classes)
+- Semantic clarity 
+  - variable reuse
+  - cohesive functions w/ good names
+  - white space and grouping in routines
+  - clarifying sequence through inputs/outputs
+- Principle of Proximity
+- Scope
+  - global usage, literal usage
+- Information Hiding & coupling
+  - don't have to look at implementations
+  - semantic coupling
+  - temporal/sequential coupling
+  - coupling via parameters 
+  - isolate likely areas of change (and "accident")
+- Stratification / consistent level of abstraction
+- small units of work / frequent complete commits
 
 ## Instructions
 
